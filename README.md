@@ -183,7 +183,7 @@ Airline-Passenger-Satisfaction-ANN/
 
 ## 👨‍💻 Author
 
-**Gaya3**
+**Gayathri**
 
 Aspiring Data Scientist passionate about Machine Learning, Deep Learning, Data Analytics, and Artificial Intelligence.
 
